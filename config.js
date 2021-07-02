@@ -1,6 +1,6 @@
 module.exports = {
-  siteTitle: 'El Espía que se perdió | Versión GForms', // <title>
-  manifestName: 'Espía que se perdió',
+  siteTitle: 'El Ninja que se perdió | Versión GForms', // <title>
+  manifestName: 'Ninja que se perdió',
   manifestShortName: 'Espía', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#663399',
@@ -8,7 +8,7 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/images/favicon.png',
   pathPrefix: `/gatsby-starter-multiverse/`, // This path is subpath of your hosting https://domain/portfolio
-  heading: 'El espía que se perdió',
+  heading: 'El ninja que se perdió',
   subHeading: 'Versión online',
   // social
   socialLinks: [],
